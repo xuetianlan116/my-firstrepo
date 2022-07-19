@@ -1,0 +1,10 @@
+section.showcase>hearder>.logo{
+    text-transform: lowercase;
+}
+section.showcase>header>.toogle {
+    width: 60px;
+    height: 60px;
+    background:url();
+    background-repeat: no-repeat;
+    background-position: center;
+}
