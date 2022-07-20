@@ -12,7 +12,11 @@ html, body {
 #block { 
     height:100%;
     display: flex;
+<<<<<<< HEAD
     flex-direction:column;
+=======
+    flex-direction:row;
+>>>>>>> f2749f6e95419d889a9ad320182962ed89d1fbae
     flex-wrap: wrap;
     justify-content: flex-start;
     justify-content: flex-end;
@@ -21,18 +25,26 @@ html, body {
     align-items: center;
 }
     
+<<<<<<< HEAD
 .A,
 .B,
 .C,
 .D,
 .E,
 .F {
+=======
+
+.A,
+.B,
+.C {
+>>>>>>> f2749f6e95419d889a9ad320182962ed89d1fbae
     height: 50px;
     border: 2px solid rgb(0, 0, 0);
     margin: 1px;
     text-align: center;
    
 }
+<<<<<<< HEAD
 
 .A {
     align-self: start;
@@ -47,6 +59,13 @@ html, body {
     order: -1;
     background-color: deeppink;
 }
+=======
+.B{ width: 200px;
+    align-self: end;
+
+}
+
+>>>>>>> f2749f6e95419d889a9ad320182962ed89d1fbae
 
 
 

@@ -83,7 +83,11 @@ section {
         border:1px solid #ccc;
         box-sizing: border-box;
        }
+<<<<<<< HEAD
     input[type=Submit]
+=======
+    input[type=submit]
+>>>>>>> f2749f6e95419d889a9ad320182962ed89d1fbae
          {width: 100%;
         background-color:rgb(11, 90, 11);
         color:white;
@@ -94,10 +98,15 @@ section {
         cursor:pointer;
 
         }
+<<<<<<< HEAD
         /* .img { width: 30%;
 
         }
      */
+=======
+       
+    
+>>>>>>> f2749f6e95419d889a9ad320182962ed89d1fbae
   
 
 
